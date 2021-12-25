@@ -1,4 +1,4 @@
-package dev.ogabek.java;
+package dev.ogabek.java.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import dev.ogabek.java.Member;
+import dev.ogabek.java.R;
+import dev.ogabek.java.User;
 
 public class SecondActivity extends AppCompatActivity {
 
